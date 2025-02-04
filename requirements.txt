@@ -1,0 +1,10 @@
+kagglehub
+torch
+torchvision
+torch-geometric
+numpy
+networkx
+pandas
+matplotlib
+seaborn
+opencv-python
