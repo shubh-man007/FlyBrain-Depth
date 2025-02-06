@@ -57,7 +57,7 @@ print("Model saved at", save_path)
 
 
 
-
+#-----------------------------------------------------------------Final Edit with config.py-------------------------------------------------------------------- 
 # import os
 # import torch
 # from torch.utils.data import DataLoader
@@ -136,7 +136,6 @@ print("Model saved at", save_path)
     
 #     print("Training complete!")
     
-#     # Optionally, you could add a testing function here to evaluate on the test set.
 #     return model, train_loader, test_loader
 
 # if __name__ == '__main__':
